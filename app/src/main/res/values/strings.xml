@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gerson Luiz Gusso</string>
+    <string name="item_ano">Trocar de carro Urgente!!!</string>
+    <string name="success_delete">Item deletado com sucesso</string>
+    <string name="error_delete">Erro ao deletar o item</string>
+    <string name="error_validate_form">Por favor, preencha o campo: %1$s</string>
+    <string name="success_create">Item %1$s criado com sucesso!</string>
+    <string name="error_create">Erro ao criar o item</string>
+    <string name="success_update">Item atualizado com sucesso!</string>
+    <string name="error_update">Erro ao atualizar o item</string>
+    <string name="error_validate_take_picture">Por favor, tire uma foto</string>
+    <string name="unknown_error">Erro desconhecido</string>
+    <string name="denied_permission">Permissão não concedida</string>
+    <string name="hint_cellphone">+55 11 912345678</string>
+    <string name="code_brazil">+55</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="hint_verify_sms">123456</string>
+    <string name="verify_sms">Verificar SMS</string>
+    <string name="logout">Logout</string>
+
+</resources>
